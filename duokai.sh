@@ -8,7 +8,7 @@ install_node() {
     # 容器数量
     container_count=5
     # 每一个容器的大小
-    storage_gb=5
+    storage_gb=1
     # 默认的开启端口
     start_rpc_port=30000
     # 默认存储路径

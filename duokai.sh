@@ -4,7 +4,7 @@
 install_node() {
 
     # 身份码
-    id="A66B147A-0FE0-45DF-8F5E-D50CD0F8B1D9"
+    id="A1FEEED1-23CD-41FA-9A14-32369CDBF9F6"
     # 容器数量
     container_count=5
     # 每一个容器的大小
